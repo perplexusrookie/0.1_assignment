@@ -1,4 +1,3 @@
-package assignment01;
 public class BlockLetters {
     public static void main(String[] args) {
         System.out.print("L   ");
