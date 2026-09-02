@@ -4,6 +4,7 @@ public class BlockLetters {
         System.out.println("L");
         System.out.println("L");
         System.out.println("L");
+        System.out.println("L");
         System.out.println("LLLLL");
 
         System.out.println();
