@@ -10,6 +10,5 @@ public class BlockLetters {
         System.out.println(" A     A  SSS");
         System.out.print("LLLL");
         System.out.println(" A     A SSS");
-        System.out.println("\nS is hard, okay");
     }
 }
